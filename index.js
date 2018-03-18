@@ -29,3 +29,5 @@ function currentLine() {
       console.log('The line is currently empty.');
     }
 }
+
+takeANumber(katzDeliLine, 'Alex');
