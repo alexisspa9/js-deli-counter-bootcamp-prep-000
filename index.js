@@ -9,11 +9,11 @@ function takeANumber(line, name) {
 function nowServing() {
   if (katzDeliLine.length > 0) {
   return katzDeliLine[0];
-  katzDeliLine.shift();
   }
   else {
   console.log('There is nobody waiting to be served!');
   }
+  katzDeliLine.shift();
 }
 
 function currentLine() {
