@@ -35,5 +35,3 @@ currentLine();
 takeANumber(katzDeliLine, 'Alex');
 takeANumber(katzDeliLine, 'George');
 nowServing();
-nowServing();
-nowServing();
