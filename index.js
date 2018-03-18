@@ -32,5 +32,6 @@ function currentLine() {
 currentLine();
 takeANumber(katzDeliLine, 'Alex');
 takeANumber(katzDeliLine, 'George');
-currentLine();
+nowServing();
+nowServing();
 nowServing();
